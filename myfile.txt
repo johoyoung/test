@@ -1,3 +1,5 @@
+pull add bb
+
 Add   change something?
 
 Git 명령어 
